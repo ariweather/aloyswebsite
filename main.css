@@ -1,0 +1,109 @@
+
+body {
+  background-color: moccasin;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 80px;
+}
+
+h1 {
+  font-family: 'Rokkitt', serif;
+  color: darkolivegreen;
+  text-decoration:overline;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;  
+}
+
+h2 {
+  font-family: 'Rokkitt', serif;
+  font-style: italic;
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+h3 {
+  font-family: 'Rokkitt', serif;
+  font-size: 25px;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.paragraph {
+  margin-top: 25px;
+  margin-bottom: 30px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.mainImage {  
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-radius: 4px;
+  height: auto;
+}
+
+.secondaryImage {
+  margin: auto;
+  text-align: center;
+  width: 600px;
+  /*padding: 10px;*/
+  border-radius: 4px;
+}
+
+.contactBlock {
+  background-color: darkolivegreen;
+	text-align: center;
+	width: 600px;
+	margin: auto;
+ /* border-style: solid;
+  border-color: white;
+  border-weight: 30px;*/
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+ .wrapper {
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 600px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.bulletedList {
+  font-weight: bold;
+  font-family: 'Rokkitt', serif;
+  font-size: 20px;
+}
+
+.resume {
+  color: olive;
+  font-family: 'Rokkitt', serif;
+  font-size: 3-right
+}
+
+.btn-link {
+  color: darkolivegreen;
+}
+
+/*
+@media only screen and (max-width: 1200px){
+    .card-body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+}
+*/    
+
+  
+  
+  
+  
+  
